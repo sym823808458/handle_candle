@@ -1,6 +1,6 @@
 # 秉烛夜读handle_candle
 
-面向科学问题的本地文献调研工具：用 Edge 打开文献页面、复制具体内容交给大语言模型分析，不止摘要，支持引用扩展、全文下载与本地工作流。
+献给有权限下载文献的研究生的工具，适合调研一个新领域使用：面向科学问题的本地文献调研工具：用 Edge 打开文献页面、复制具体内容交给大语言模型分析，不止摘要，支持引用扩展、全文下载与本地工作流。
 
 Local literature research tool for scientific questions: it uses Edge to open paper pages, copies detailed on-page content for large language model analysis beyond abstracts, and supports citation expansion, full-text download, and local research workflows.
 
